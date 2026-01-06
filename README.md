@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Plataforma-Google_NotebookLM-blue)
 ![Focus](https://img.shields.io/badge/Foco-ESG_%26_Finanças-green)
 
-> "Este notebook funciona como um guia estruturado sobre como as práticas de ESG (Ambiental, Social e Governança) influenciam as decisões de consumo e investimento."
+> "Este notebook funciona como um guia estruturado sobre como as práticas de ESG (Ambiental, Social e Governança) podem influenciar suas decisões de consumo e investimento."
 
 ---
 
