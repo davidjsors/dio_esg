@@ -10,7 +10,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este acervo reúne **dados de mercado** e **pesquisas científicas** para explicar o impacto real do ESG no seu bolso, na sociedade e na perenidade das instituições financeiras, utilizando casos práticos (como o do Bradesco) e teoria acadêmica.
+Este acervo reúne **dados de mercado** e **pesquisas científicas** para explicar o impacto real do ESG no seu bolso, na sociedade e na perenidade das instituições financeiras, unindo téoria e casos práticos - como o do Bradesco.
 
 O objetivo principal é oferecer ferramentas práticas para o consumidor e investidor moderno.
 
@@ -19,7 +19,7 @@ O objetivo principal é oferecer ferramentas práticas para o consumidor e inves
 * ✅ **Checklists de Verificação:** critérios objetivos para validar se um banco é sustentável.
 * 🚫 **Radar Anti-Greenwashing:** como identificar marketing falso e fugir de armadilhas.
 * 💰 **Guia de Alocação:** ferramentas para decidir onde investir seus recursos de forma consciente.
-* 🧠 **Conceitos Estruturados:** glossários e resumos que conectam teoria acadêmica à prática bancária.
+* 🧠 **Conceitos Estruturados:** glossários e resumos que conectam teoria acadêmica à prática financeira.
 
 ---
 
@@ -35,8 +35,8 @@ Todo o conteúdo foi processado e estruturado utilizando a inteligência do **No
 Este guia foi construído com base em:
 1.  **Relatórios Corporativos:** dados oficiais e relatórios integrados (ex: Bradesco).
 2.  **Dados de Mercado:** pesquisas setoriais (FEBRABAN, ANBIMA).
-3.  **Academia:** artigos/papers sobre comportamento do consumidor e finanças sustentáveis.
+3.  **Academia:** artigos/papers sobre comportamento do consumidor, finanças sustentáveis e ESG.
 
 ---
-*Criado com auxílio de IA para democratizar o acesso à educação financeira sustentável.*
+🚩*Criado com auxílio de IA para democratizar o acesso à educação financeira sustentável.*
 
