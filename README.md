@@ -1,7 +1,6 @@
 
 # 🌿ESG e Decisão Financeira
 
-![Status](https://img.shields.io/badge/Status-Ativo-success)
 ![Platform](https://img.shields.io/badge/Plataforma-Google_NotebookLM-blue)
 ![Focus](https://img.shields.io/badge/Foco-ESG_%26_Finanças-green)
 
